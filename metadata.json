@@ -1,0 +1,6 @@
+{
+  "name": "StarMaker",
+  "description": "Live singing and karaoke party rooms with audio visualizer, VIP & Noble status, 100-level progression, level 50+ exclusive IDs, and hidden admin panel for karaoke & timestamped lyrics management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
